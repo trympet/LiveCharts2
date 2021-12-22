@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="SkiaSharp.Views" Version="2.88.0-preview.140" />
+    <PackageReference Include="SkiaSharp.Views" Version="2.88.0-preview.179" />
   </ItemGroup>
 
   <ItemGroup>
